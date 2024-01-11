@@ -1,0 +1,14 @@
+C:\Users\victo\OneDrive\Documentos\C#\Gerador de numeros aleatorios\bin\Debug\net8.0\Gerador de numeros aleatorios.exe
+C:\Users\victo\OneDrive\Documentos\C#\Gerador de numeros aleatorios\bin\Debug\net8.0\Gerador de numeros aleatorios.deps.json
+C:\Users\victo\OneDrive\Documentos\C#\Gerador de numeros aleatorios\bin\Debug\net8.0\Gerador de numeros aleatorios.runtimeconfig.json
+C:\Users\victo\OneDrive\Documentos\C#\Gerador de numeros aleatorios\bin\Debug\net8.0\Gerador de numeros aleatorios.dll
+C:\Users\victo\OneDrive\Documentos\C#\Gerador de numeros aleatorios\bin\Debug\net8.0\Gerador de numeros aleatorios.pdb
+C:\Users\victo\OneDrive\Documentos\C#\Gerador de numeros aleatorios\obj\Debug\net8.0\Gerador de numeros aleatorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Documentos\C#\Gerador de numeros aleatorios\obj\Debug\net8.0\Gerador de numeros aleatorios.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Documentos\C#\Gerador de numeros aleatorios\obj\Debug\net8.0\Gerador de numeros aleatorios.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Documentos\C#\Gerador de numeros aleatorios\obj\Debug\net8.0\Gerador de numeros aleatorios.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Documentos\C#\Gerador de numeros aleatorios\obj\Debug\net8.0\Gerador de numeros aleatorios.dll
+C:\Users\victo\OneDrive\Documentos\C#\Gerador de numeros aleatorios\obj\Debug\net8.0\refint\Gerador de numeros aleatorios.dll
+C:\Users\victo\OneDrive\Documentos\C#\Gerador de numeros aleatorios\obj\Debug\net8.0\Gerador de numeros aleatorios.pdb
+C:\Users\victo\OneDrive\Documentos\C#\Gerador de numeros aleatorios\obj\Debug\net8.0\Gerador de numeros aleatorios.genruntimeconfig.cache
+C:\Users\victo\OneDrive\Documentos\C#\Gerador de numeros aleatorios\obj\Debug\net8.0\ref\Gerador de numeros aleatorios.dll
